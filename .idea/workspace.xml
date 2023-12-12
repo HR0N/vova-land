@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a4eb087-6a6a-4005-a6cc-d91e21a193d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/libs/hicons/hicons-v2.0/fonts-free/hicons-free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/hicons/hicons-v2.0/fonts-free/hicons-free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/hicons/hicons-v2.0/fonts-free/hicons-free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/hicons/hicons-v2.0/fonts-free/hicons-free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/hicons/hicons-v2.0/hicons-free.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/hicons/hicons-v1.0/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2X1fVt61wEoFhDPo07psSBcA56n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../next_laravel_template" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\HRON\OpenServer\domains\create-php-mailer\libs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\HRON\OpenServer\domains\vova-land\libs\hicons\hicons-v2.0" />
+      <recent name="C:\HRON\OpenServer\domains\vova-land\libs\hicons\hicons-v2.0\fonts-free" />
+      <recent name="C:\HRON\OpenServer\domains\local-developing-for-test\js" />
+      <recent name="C:\HRON\OpenServer\domains\local-developing-for-test" />
+      <recent name="C:\HRON\OpenServer\domains\create-php-mailer" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a4eb087-6a6a-4005-a6cc-d91e21a193d8" name="Default Changelist" comment="" />
+      <created>1697801533215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697801533215</updated>
+      <workItem from="1697801537650" duration="4873000" />
+      <workItem from="1700240640357" duration="6510000" />
+      <workItem from="1700345202898" duration="3549000" />
+      <workItem from="1701250242966" duration="105000" />
+      <workItem from="1701250462947" duration="4459000" />
+      <workItem from="1701264088832" duration="8238000" />
+      <workItem from="1701420062603" duration="237000" />
+      <workItem from="1701458070904" duration="4283000" />
+      <workItem from="1701465885227" duration="1470000" />
+      <workItem from="1701508329734" duration="77000" />
+      <workItem from="1701702943111" duration="859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1701703821694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1701703821694" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1701281965173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1701281965173" />
+  </component>
+</project>
